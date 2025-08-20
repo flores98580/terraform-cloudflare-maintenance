@@ -1,1 +1,2 @@
 Terraform module to create a responsive Maintenance Page using Cloudflare Worker
+# handle the edge case from the last release
