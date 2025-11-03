@@ -5,3 +5,4 @@ Terraform module to create a responsive Maintenance Page using Cloudflare Worker
 # clarify the control flow
 # drop an unused branch
 # clarify the control flow
+# clarify the control flow
