@@ -10,3 +10,4 @@ Notes and usage details for terraform-cloudflare-maintenance.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
